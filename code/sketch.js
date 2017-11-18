@@ -29,7 +29,7 @@ function setup() {
   function ready() {
     speech.setVoice(speech.voices[3].name);
     say("Hello!");
-    say("Guess a number between 1 and 10.");
+    say("Hi!");
   }
 
   //starting Speech-Recognition
