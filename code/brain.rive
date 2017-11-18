@@ -6,9 +6,6 @@
 * <star> < <bot num> => pick a higher number
 * <star> == <bot num> => you got it!
 
-+ *
-- I only accept numbers
-
 + hello
 - Hello there!
 
